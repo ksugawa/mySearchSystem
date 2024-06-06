@@ -20,6 +20,12 @@ img {
 a {
     text-decoration: none;
     cursor: pointer;
+    color: #000;
+}
+
+nav ul a {
+    color: #fff;
+    font-weight: bold;
 }
 
 form {
@@ -40,6 +46,13 @@ input {
 
 ul {
     list-style: none;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
 }
 
 #searchBtn {
@@ -63,7 +76,7 @@ ul {
 
 .searchTop {
     width: 50%;
-    height: 23vh;
+    height: 27vh;
     margin: 0 auto;
     padding: 2% 0;
     text-align: center;
@@ -79,7 +92,7 @@ ul {
 
 #resultArea {
     width: 52%;
-    height: calc(100vh - 23vh);
+    height: calc(100vh - 27vh);
     margin: 0 auto;
 }
 
@@ -111,7 +124,7 @@ ul {
 
 #resultList {
     overflow-y: scroll;
-    height: calc(100vh - 40vh);
+    height: calc(100% - 15vh);
 }
 
 .resultItem {
