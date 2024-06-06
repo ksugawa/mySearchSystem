@@ -1,0 +1,494 @@
+{
+    "data": [
+      {
+        "patentNum": "JP00000001",
+        "maker": "Company A",
+        "summary": "Summary of patent 1",
+        "appDate": "2023-01-01",
+        "publicDate": "2023-06-01"
+      },
+      {
+        "patentNum": "JP00000002",
+        "maker": "Company B",
+        "summary": "Summary of patent 2",
+        "appDate": "2023-01-02",
+        "publicDate": "2023-06-02"
+      },
+      {
+        "patentNum": "JP00000003",
+        "maker": "Company C",
+        "summary": "Summary of patent 3",
+        "appDate": "2023-01-03",
+        "publicDate": "2023-06-03"
+      },
+      {
+        "patentNum": "JP00000004",
+        "maker": "Company D",
+        "summary": "Summary of patent 4",
+        "appDate": "2023-01-04",
+        "publicDate": "2023-06-04"
+      },
+      {
+        "patentNum": "JP00000005",
+        "maker": "Company E",
+        "summary": "Summary of patent 5",
+        "appDate": "2023-01-05",
+        "publicDate": "2023-06-05"
+      },
+      {
+        "patentNum": "JP00000006",
+        "maker": "Company F",
+        "summary": "Summary of patent 6",
+        "appDate": "2023-01-06",
+        "publicDate": "2023-06-06"
+      },
+      {
+        "patentNum": "JP00000007",
+        "maker": "Company G",
+        "summary": "Summary of patent 7",
+        "appDate": "2023-01-07",
+        "publicDate": "2023-06-07"
+      },
+      {
+        "patentNum": "JP00000008",
+        "maker": "Company H",
+        "summary": "Summary of patent 8",
+        "appDate": "2023-01-08",
+        "publicDate": "2023-06-08"
+      },
+      {
+        "patentNum": "JP00000009",
+        "maker": "Company I",
+        "summary": "Summary of patent 9",
+        "appDate": "2023-01-09",
+        "publicDate": "2023-06-09"
+      },
+      {
+        "patentNum": "JP00000010",
+        "maker": "Company J",
+        "summary": "Summary of patent 10",
+        "appDate": "2023-01-10",
+        "publicDate": "2023-06-10"
+      },
+      {
+        "patentNum": "JP00000011",
+        "maker": "Company K",
+        "summary": "Summary of patent 11",
+        "appDate": "2023-01-11",
+        "publicDate": "2023-06-11"
+      },
+      {
+        "patentNum": "JP00000012",
+        "maker": "Company L",
+        "summary": "Summary of patent 12",
+        "appDate": "2023-01-12",
+        "publicDate": "2023-06-12"
+      },
+      {
+        "patentNum": "JP00000013",
+        "maker": "Company M",
+        "summary": "Summary of patent 13",
+        "appDate": "2023-01-13",
+        "publicDate": "2023-06-13"
+      },
+      {
+        "patentNum": "JP00000014",
+        "maker": "Company N",
+        "summary": "Summary of patent 14",
+        "appDate": "2023-01-14",
+        "publicDate": "2023-06-14"
+      },
+      {
+        "patentNum": "JP00000015",
+        "maker": "Company O",
+        "summary": "Summary of patent 15",
+        "appDate": "2023-01-15",
+        "publicDate": "2023-06-15"
+      },
+      {
+        "patentNum": "JP00000016",
+        "maker": "Company P",
+        "summary": "Summary of patent 16",
+        "appDate": "2023-01-16",
+        "publicDate": "2023-06-16"
+      },
+      {
+        "patentNum": "JP00000017",
+        "maker": "Company Q",
+        "summary": "Summary of patent 17",
+        "appDate": "2023-01-17",
+        "publicDate": "2023-06-17"
+      },
+      {
+        "patentNum": "JP00000018",
+        "maker": "Company R",
+        "summary": "Summary of patent 18",
+        "appDate": "2023-01-18",
+        "publicDate": "2023-06-18"
+      },
+      {
+        "patentNum": "JP00000019",
+        "maker": "Company S",
+        "summary": "Summary of patent 19",
+        "appDate": "2023-01-19",
+        "publicDate": "2023-06-19"
+      },
+      {
+        "patentNum": "JP00000020",
+        "maker": "Company T",
+        "summary": "Summary of patent 20",
+        "appDate": "2023-01-20",
+        "publicDate": "2023-06-20"
+      },
+      {
+        "patentNum": "JP00000021",
+        "maker": "Company U",
+        "summary": "Summary of patent 21",
+        "appDate": "2023-01-21",
+        "publicDate": "2023-06-21"
+      },
+      {
+        "patentNum": "JP00000022",
+        "maker": "Company V",
+        "summary": "Summary of patent 22",
+        "appDate": "2023-01-22",
+        "publicDate": "2023-06-22"
+      },
+      {
+        "patentNum": "JP00000023",
+        "maker": "Company W",
+        "summary": "Summary of patent 23",
+        "appDate": "2023-01-23",
+        "publicDate": "2023-06-23"
+      },
+      {
+        "patentNum": "JP00000024",
+        "maker": "Company X",
+        "summary": "Summary of patent 24",
+        "appDate": "2023-01-24",
+        "publicDate": "2023-06-24"
+      },
+      {
+        "patentNum": "JP00000025",
+        "maker": "Company Y",
+        "summary": "Summary of patent 25",
+        "appDate": "2023-01-25",
+        "publicDate": "2023-06-25"
+      },
+      {
+        "patentNum": "JP00000026",
+        "maker": "Company \u001a",
+        "summary": "Summary of patent 26",
+        "appDate": "2023-01-26",
+        "publicDate": "2023-06-26"
+      },
+      {
+        "patentNum": "JP00000027",
+        "maker": "Company A",
+        "summary": "Summary of patent 27",
+        "appDate": "2023-01-27",
+        "publicDate": "2023-06-27"
+      },
+      {
+        "patentNum": "JP00000028",
+        "maker": "Company B",
+        "summary": "Summary of patent 28",
+        "appDate": "2023-01-28",
+        "publicDate": "2023-06-28"
+      },
+      {
+        "patentNum": "JP00000029",
+        "maker": "Company C",
+        "summary": "Summary of patent 29",
+        "appDate": "2023-01-29",
+        "publicDate": "2023-06-29"
+      },
+      {
+        "patentNum": "JP00000030",
+        "maker": "Company D",
+        "summary": "Summary of patent 30",
+        "appDate": "2023-01-30",
+        "publicDate": "2023-06-30"
+      },
+      {
+        "patentNum": "JP00000031",
+        "maker": "Company E",
+        "summary": "Summary of patent 31",
+        "appDate": "2023-01-31",
+        "publicDate": "2023-07-01"
+      },
+      {
+        "patentNum": "JP00000032",
+        "maker": "Company F",
+        "summary": "Summary of patent 32",
+        "appDate": "2023-02-01",
+        "publicDate": "2023-07-02"
+      },
+      {
+        "patentNum": "JP00000033",
+        "maker": "Company G",
+        "summary": "Summary of patent 33",
+        "appDate": "2023-02-02",
+        "publicDate": "2023-07-03"
+      },
+      {
+        "patentNum": "JP00000034",
+        "maker": "Company H",
+        "summary": "Summary of patent 34",
+        "appDate": "2023-02-03",
+        "publicDate": "2023-07-04"
+      },
+      {
+        "patentNum": "JP00000035",
+        "maker": "Company I",
+        "summary": "Summary of patent 35",
+        "appDate": "2023-02-04",
+        "publicDate": "2023-07-05"
+      },
+      {
+        "patentNum": "JP00000036",
+        "maker": "Company J",
+        "summary": "Summary of patent 36",
+        "appDate": "2023-02-05",
+        "publicDate": "2023-07-06"
+      },
+      {
+        "patentNum": "JP00000037",
+        "maker": "Company K",
+        "summary": "Summary of patent 37",
+        "appDate": "2023-02-06",
+        "publicDate": "2023-07-07"
+      },
+      {
+        "patentNum": "JP00000038",
+        "maker": "Company L",
+        "summary": "Summary of patent 38",
+        "appDate": "2023-02-07",
+        "publicDate": "2023-07-08"
+      },
+      {
+        "patentNum": "JP00000039",
+        "maker": "Company M",
+        "summary": "Summary of patent 39",
+        "appDate": "2023-02-08",
+        "publicDate": "2023-07-09"
+      },
+      {
+        "patentNum": "JP00000040",
+        "maker": "Company N",
+        "summary": "Summary of patent 40",
+        "appDate": "2023-02-09",
+        "publicDate": "2023-07-10"
+      },
+      {
+        "patentNum": "JP00000041",
+        "maker": "Company O",
+        "summary": "Summary of patent 41",
+        "appDate": "2023-02-10",
+        "publicDate": "2023-07-11"
+      },
+      {
+        "patentNum": "JP00000042",
+        "maker": "Company P",
+        "summary": "Summary of patent 42",
+        "appDate": "2023-02-11",
+        "publicDate": "2023-07-12"
+      },
+      {
+        "patentNum": "JP00000043",
+        "maker": "Company Q",
+        "summary": "Summary of patent 43",
+        "appDate": "2023-02-12",
+        "publicDate": "2023-07-13"
+      },
+      {
+        "patentNum": "JP00000044",
+        "maker": "Company R",
+        "summary": "Summary of patent 44",
+        "appDate": "2023-02-13",
+        "publicDate": "2023-07-14"
+      },
+      {
+        "patentNum": "JP00000045",
+        "maker": "Company S",
+        "summary": "Summary of patent 45",
+        "appDate": "2023-02-14",
+        "publicDate": "2023-07-15"
+      },
+      {
+        "patentNum": "JP00000046",
+        "maker": "Company T",
+        "summary": "Summary of patent 46",
+        "appDate": "2023-02-15",
+        "publicDate": "2023-07-16"
+      },
+      {
+        "patentNum": "JP00000047",
+        "maker": "Company U",
+        "summary": "Summary of patent 47",
+        "appDate": "2023-02-16",
+        "publicDate": "2023-07-17"
+      },
+      {
+        "patentNum": "JP00000048",
+        "maker": "Company V",
+        "summary": "Summary of patent 48",
+        "appDate": "2023-02-17",
+        "publicDate": "2023-07-18"
+      },
+      {
+        "patentNum": "JP00000049",
+        "maker": "Company W",
+        "summary": "Summary of patent 49",
+        "appDate": "2023-02-18",
+        "publicDate": "2023-07-19"
+      },
+      {
+        "patentNum": "JP00000050",
+        "maker": "Company X",
+        "summary": "Summary of patent 50",
+        "appDate": "2023-02-19",
+        "publicDate": "2023-07-20"
+      },
+      {
+        "patentNum": "JP00000051",
+        "maker": "Company Y",
+        "summary": "Summary of patent 51",
+        "appDate": "2023-02-20",
+        "publicDate": "2023-07-21"
+      },
+      {
+        "patentNum": "JP00000052",
+        "maker": "Company \u001a",
+        "summary": "Summary of patent 52",
+        "appDate": "2023-02-21",
+        "publicDate": "2023-07-22"
+      },
+      {
+        "patentNum": "JP00000053",
+        "maker": "Company A",
+        "summary": "Summary of patent 53",
+        "appDate": "2023-02-22",
+        "publicDate": "2023-07-23"
+      },
+      {
+        "patentNum": "JP00000054",
+        "maker": "Company B",
+        "summary": "Summary of patent 54",
+        "appDate": "2023-02-23",
+        "publicDate": "2023-07-24"
+      },
+      {
+        "patentNum": "JP00000055",
+        "maker": "Company C",
+        "summary": "Summary of patent 55",
+        "appDate": "2023-02-24",
+        "publicDate": "2023-07-25"
+      },
+      {
+        "patentNum": "JP00000056",
+        "maker": "Company D",
+        "summary": "Summary of patent 56",
+        "appDate": "2023-02-25",
+        "publicDate": "2023-07-26"
+      },
+      {
+        "patentNum": "JP00000057",
+        "maker": "Company E",
+        "summary": "Summary of patent 57",
+        "appDate": "2023-02-26",
+        "publicDate": "2023-07-27"
+      },
+      {
+        "patentNum": "JP00000058",
+        "maker": "Company F",
+        "summary": "Summary of patent 58",
+        "appDate": "2023-02-27",
+        "publicDate": "2023-07-28"
+      },
+      {
+        "patentNum": "JP00000059",
+        "maker": "Company G",
+        "summary": "Summary of patent 59",
+        "appDate": "2023-02-28",
+        "publicDate": "2023-07-29"
+      },
+      {
+        "patentNum": "JP00000060",
+        "maker": "Company H",
+        "summary": "Summary of patent 60",
+        "appDate": "2023-03-01",
+        "publicDate": "2023-07-30"
+      },
+      {
+        "patentNum": "JP00000061",
+        "maker": "Company I",
+        "summary": "Summary of patent 61",
+        "appDate": "2023-03-02",
+        "publicDate": "2023-07-31"
+      },
+      {
+        "patentNum": "JP00000062",
+        "maker": "Company J",
+        "summary": "Summary of patent 62",
+        "appDate": "2023-03-03",
+        "publicDate": "2023-08-01"
+      },
+      {
+        "patentNum": "JP00000063",
+        "maker": "Company K",
+        "summary": "Summary of patent 63",
+        "appDate": "2023-03-04",
+        "publicDate": "2023-08-02"
+      },
+      {
+        "patentNum": "JP00000064",
+        "maker": "Company L",
+        "summary": "Summary of patent 64",
+        "appDate": "2023-03-05",
+        "publicDate": "2023-08-03"
+      },
+      {
+        "patentNum": "JP00000065",
+        "maker": "Company M",
+        "summary": "Summary of patent 65",
+        "appDate": "2023-03-06",
+        "publicDate": "2023-08-04"
+      },
+      {
+        "patentNum": "JP00000066",
+        "maker": "Company N",
+        "summary": "Summary of patent 66",
+        "appDate": "2023-03-07",
+        "publicDate": "2023-08-05"
+      },
+      {
+        "patentNum": "JP00000067",
+        "maker": "Company O",
+        "summary": "Summary of patent 67",
+        "appDate": "2023-03-08",
+        "publicDate": "2023-08-06"
+      },
+      {
+        "patentNum": "JP00000068",
+        "maker": "Company P",
+        "summary": "Summary of patent 68",
+        "appDate": "2023-03-09",
+        "publicDate": "2023-08-07"
+      },
+      {
+        "patentNum": "JP00000069",
+        "maker": "Company Q",
+        "summary": "Summary of patent 69",
+        "appDate": "2023-03-10",
+        "publicDate": "2023-08-08"
+      },
+      {
+        "patentNum": "JP00000070",
+        "maker": "Company R",
+        "summary": "Summary of patent 70",
+        "appDate": "2023-03-11",
+        "publicDate": "2023-08-09"
+      }
+    ]
+  }

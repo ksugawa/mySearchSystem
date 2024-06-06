@@ -4,8 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-    
+    <div class="main">
+        <div class="searchTop">
+            <p>Knowledge Search</p>
+            <div class="SearchField">
+                <form action="">
+                    <input type="text" id="searchForm" placeholder="テキストを入力してください">
+                    <button id="searchBtn"><img src="img/icon-search.png" alt=""></button>
+                </form>
+            </div>
+        </div>
+        <div id="resultArea">
+            <div id="resultTtl">
+                <p>検索結果一覧</p>
+                <div>
+                    <button>絞り込み</button>
+                    <button>カテゴリ</button>
+                </div>
+                <div class="resultNum">
+                    <span id="resultNum"></span>
+                    <p>件ヒットしました。</p>
+                </div>
+            </div>
+            <div id="resultList"></div>
+            <div id="pagination">
+                <ul>
+                    <li id="before"><</li>
+                    <li>1</li>
+                    <li>2</li>
+                    <li>・・・</li>
+                    <li>4</li>
+                    <li id="next">></li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
 </body>
 </html>

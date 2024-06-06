@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 16px;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 420px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px 0 0 8px;
+    padding: 8px 12px;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+#searchBtn {
+    position: relative;
+    width: 52px;
+    height: 42px;
+    background-color: blue;
+    cursor: pointer;
+    border: none;
+    border-radius: 0 8px 8px 0;
+}
+
+#searchBtn img {
+    width: 29px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.searchTop {
+    width: 50%;
+    height: 23vh;
+    margin: 0 auto;
+    padding: 2% 0;
+    text-align: center;
+}
+
+.SearchField {
+    padding: 1rem;
+}
+
+.searchTop p {
+    font-size: 2rem;
+}
+
+#resultArea {
+    width: 52%;
+    height: calc(100vh - 23vh);
+    margin: 0 auto;
+}
+
+#resultTtl,
+#pagination {
+    display: none;
+}
+
+#resultTtl {
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+#resultTtl button {
+    width: 120px;
+    padding: 8px 12px;
+    border-radius: 36px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+.resultNum span,
+.resultNum p{
+    display: inline;
+}
+
+#resultList {
+    overflow-y: scroll;
+    height: calc(100vh - 40vh);
+}
+
+.resultItem {
+    position: relative;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius:8px;
+}
+
+.resultItem .thumbnail {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 240px;
+    height: 100%;
+    background: #ccc;
+}
+
+.resultItem .resultTxt {
+    width: 60%;
+    margin-left: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.resultTxtItems div {
+    margin-bottom: 4px;
+}
+
+.resultTxtItems div p {
+    display: inline-block;
+}
+
+.resultTxtItems div p:first-child {
+    width: 150px;
+}
+
+#pagination ul {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+#pagination ul li {
+    padding: 0 4px;
+}
